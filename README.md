@@ -1,76 +1,88 @@
+
 # 💻 Welcome to My GitHub Profile
 
 ### About Me
-👨‍💻 I hold an Associate's Degree in Cross-Platform Software Development, and I’m currently in my ninth quarter of **Software Engineering** at the **Technological University of Chihuahua**. With technical and professional experience, I’m passionate about analyzing challenges and creating tailored solutions. I'm always on the lookout for new opportunities that allow me to grow both personally and professionally.
+👨‍💻 I’m a **Software Development and Management Engineering** student at the **Technological University of Chihuahua**, currently in my final stage (2022–2025). I bring over **three years of technical and professional experience**, from automating business processes with RPA to implementing ERP and CRM systems. I'm passionate about crafting tailored solutions to complex problems, building usable interfaces, and continuously learning new technologies.
+
+Currently, I work as a **Software Engineer at Mobinsa**, where I lead the implementation of enterprise software solutions that enhance operational efficiency and customer service alignment.
 
 ---
 
 ### 🔧 Technologies and Tools
 
-- **Languages**: Python, Java, JavaScript
-- **Frameworks**: React, Flask, .NET
+- **Languages**: Java, JavaScript, Python, PHP, C#, C++, Dart
+- **Frameworks**: Spring Boot, Flask, Laravel, React, React Native
 - **Mobile Development**: Android Studio
-- **Development Environments**: Visual Studio Code, Visual Studio
+- **Development Environments**: Visual Studio Code, Visual Studio, IntelliJ
 - **Databases**: MySQL, PostgreSQL, Firebase, MongoDB
+- **Version Control**: Git, GitHub, GitLab
+- **Tools**: Jira, Figma, Slack
 
 ---
 
 ### 💼 Personal Skills
 
-- **Leadership**: Ability to lead projects and teams effectively
-- **Teamwork**: Strong collaboration in dynamic environments
-- **Assertive Communication**: Skilled in clear and respectful expression and reception of ideas
-- **Proactivity**: Initiative to solve problems efficiently
-- **Critical Thinking**: In-depth analysis of problems to find innovative solutions
-- **Service-Oriented Attitude**: Focused on providing support and solutions to others
+- **Leadership**: Successfully led software implementations in enterprise environments
+- **Teamwork**: Highly collaborative in dynamic, fast-paced settings
+- **Assertive Communication**: Effective in delivering and receiving feedback with clarity
+- **Proactivity**: Constant drive to solve challenges and improve processes
+- **Critical Thinking**: Deep analysis for innovative, goal-oriented solutions
+- **Customer Orientation**: Focused on user needs and internal service excellence
 
 ---
 
 ### 📈 My Philosophy
-I'm always searching for projects and opportunities where I can apply my skills, learn, and face new challenges. I strongly believe that every problem has a unique solution, and I strive to create solutions that are tailored to the specific needs of each situation.
+I see each project as a chance to grow—technically and personally. I believe that the best solutions emerge from a deep understanding of the problem and a creative, structured approach. I aim to contribute meaningfully wherever I go, adapting and innovating to deliver high-impact results.
 
 ---
 
 ### 📫 Contact
-If you'd like to collaborate or have any questions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/abraham-isaí-garcía-2306b7265/) or abraham_gp96@outlook.com
+- 📧 Email: abraham_gp96@outlook.com  
+- 💼 LinkedIn: [Abraham Isaí García](https://www.linkedin.com/in/abraham-isaí-garcía-2306b7265/)  
+- 🧠 GitHub: [github.com/IsaiGp96](https://github.com/IsaiGp96)
 
 ---
-
 
 # 💻 Bienvenido a mi Perfil de GitHub
 
 ### Sobre mí
-👨‍💻 Soy Técnico Superior Universitario en desarrollo de software multiplataforma y actualmente estoy en el noveno cuatrimestre de la **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Chihuahua**. Con experiencia técnica y laboral, me apasiona analizar problemáticas y crear soluciones a medida. Siempre busco nuevos retos que me permitan crecer tanto personal como profesionalmente.
+👨‍💻 Soy estudiante de **Ingeniería en Desarrollo y Gestión de Software** en la **Universidad Tecnológica de Chihuahua**, en la recta final de mis estudios (2022–2025). Cuento con más de **tres años de experiencia técnica y profesional**, desarrollando soluciones de automatización con RPA y liderando implementaciones de ERP y CRM en entornos empresariales. Me motiva resolver problemas complejos, mejorar interfaces interactivas y aprender continuamente nuevas tecnologías.
+
+Actualmente trabajo como **Ingeniero de Software en Mobinsa**, donde lidero la implementación de sistemas empresariales que mejoran la eficiencia operativa y el servicio interno.
 
 ---
 
 ### 🔧 Tecnologías y Herramientas
 
-- **Lenguajes**: Python, Java, JavaScript
-- **Frameworks**: React, Flask, .NET
+- **Lenguajes**: Java, JavaScript, Python, PHP, C#, C++, Dart
+- **Frameworks**: Spring Boot, Flask, Laravel, React, React Native
 - **Desarrollo Móvil**: Android Studio
-- **Entornos de Desarrollo**: Visual Studio Code, Visual Studio
+- **Entornos de Desarrollo**: Visual Studio Code, Visual Studio, IntelliJ
 - **Bases de Datos**: MySQL, PostgreSQL, Firebase, MongoDB
+- **Control de Versiones**: Git, GitHub, GitLab
+- **Herramientas**: Jira, Figma, Slack
 
 ---
 
 ### 💼 Habilidades Personales
 
-- **Liderazgo**: Capacidad para dirigir proyectos y equipos
-- **Trabajo en Equipo**: Colaboración efectiva en entornos dinámicos
-- **Comunicación Asertiva**: Habilidades para expresar y recibir ideas de forma clara y respetuosa
-- **Proactividad**: Iniciativa para resolver problemas de forma eficiente
-- **Pensamiento Crítico**: Análisis profundo de problemas para encontrar soluciones innovadoras
-- **Actitud de Servicio**: Enfoque en ofrecer apoyo y soluciones a los demás
+- **Liderazgo**: Gestión exitosa de implementaciones de software empresarial
+- **Trabajo en Equipo**: Colaboración efectiva en ambientes dinámicos
+- **Comunicación Asertiva**: Expresión y recepción clara y respetuosa de ideas
+- **Proactividad**: Iniciativa constante para resolver e innovar
+- **Pensamiento Crítico**: Análisis profundo orientado a soluciones creativas
+- **Orientación al Cliente**: Foco en las necesidades del usuario y el servicio interno
 
 ---
 
 ### 📈 Mi Filosofía
-Siempre estoy en la búsqueda de proyectos y oportunidades que me permitan no solo aplicar mis conocimientos, sino también aprender y enfrentar desafíos nuevos. Creo firmemente que cada problema tiene una solución única, y me esfuerzo por crear soluciones adaptadas a las necesidades específicas de cada situación.
+Considero cada proyecto como una oportunidad para crecer, tanto técnica como personalmente. Creo que las mejores soluciones surgen del entendimiento profundo del problema y de un enfoque estructurado e innovador. Busco siempre aportar valor, adaptarme y generar impacto en cada iniciativa.
 
 ---
 
 ### 📫 Contacto
-Si deseas colaborar o tienes alguna pregunta, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/abraham-isaí-garcía-2306b7265/) o por email en abraham_gp96@outlook.com
+- 📧 Correo: abraham_gp96@outlook.com  
+- 💼 LinkedIn: [Abraham Isaí García](https://www.linkedin.com/in/abraham-isaí-garcía-2306b7265/)  
+- 🧠 GitHub: [github.com/IsaiGp96](https://github.com/IsaiGp96)
 
 ---
